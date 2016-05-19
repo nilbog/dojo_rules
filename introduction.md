@@ -1,1 +1,4 @@
-I enjoyed the Ruby and JS coursed 
+Skills
+* Git
+* JS
+* HTML/CSS
